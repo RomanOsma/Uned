@@ -1,9 +1,9 @@
+.vscode/
+.idea/
 .venv/
 venv/
 __pycache__/
 *.pyc
-.env
 *.exe
 *.o
-.vscode/
-.idea/
+.env
