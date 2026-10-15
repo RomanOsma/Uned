@@ -36,9 +36,8 @@ int main(){
 
   if (lado>=1 && lado<=20) {
 
-    printf("\n");
     /* Primer salto de linea para dibujar rombo*/
-
+    printf("\n");
 
     /* TRIÁNGULO SUPERIOR */
     for(int i=1; i<=lado; i++) {
